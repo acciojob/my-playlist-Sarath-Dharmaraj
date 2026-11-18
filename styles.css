@@ -13,6 +13,6 @@ h1, h2{
 }
 .player_one, .player_two{
 	background-color: rgb(255, 255, 255); 
-	padding: auto; 
+	padding: 1px; 
 	border-radius: 20px;
 }
